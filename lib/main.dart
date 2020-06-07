@@ -1,3 +1,6 @@
+//Navigate to PageTwo then pop back to PageOne during the pop 
+//there are graphics anomalies tested on iPhone 6 and iPhone 6s
+
 import 'package:flutter/material.dart';
 
 void main() {
